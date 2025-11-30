@@ -32,7 +32,7 @@ Because the repository contains the decoded project files (smali/java/resources)
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOURUSER/ZARQ.git
+git clone https://github.com/JavaKyoseva/ZARQ.git
 cd ZARQ
 ```
 
