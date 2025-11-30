@@ -32,8 +32,11 @@ Because the repository contains the decoded project files (smali/java/resources)
 
 ### 1️⃣ Clone the repository
 ```bash
+pkg install git -y
+pkg install unzip -y
 git clone https://github.com/JavaKyoseva/ZARQ.git
 cd ZARQ
+unzip ZARQ.zip
 ```
 
 ### 2️⃣ Build using Gradle (normal Android project)
